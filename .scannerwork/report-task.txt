@@ -1,0 +1,7 @@
+organization=hediaza-github
+projectKey=PK20191114.2
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.2662
+dashboardUrl=https://sonarcloud.io/dashboard?id=PK20191114.2
+ceTaskId=AW5rBpC79Q2zbfxRXGz2
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW5rBpC79Q2zbfxRXGz2
